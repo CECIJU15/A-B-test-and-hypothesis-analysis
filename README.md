@@ -42,11 +42,12 @@ Este proyecto se enmarca en una tienda online que busca optimizar sus ingresos m
 
 ## 📁 Estructura del proyecto
 
+```plaintext
 📦 ab-test-hypothesis-analysis  
 ├── data/                # Archivos CSV originales  
 ├── ab_test.ipynb        # Análisis completo en Jupyter Notebook  
 ├── README.md            # Este archivo  
-
+```
 
 ## 👤 Autor
 

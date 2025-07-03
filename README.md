@@ -44,9 +44,12 @@ Este proyecto se enmarca en una tienda online que busca optimizar sus ingresos m
 
 ```plaintext
 📦 ab-test-hypothesis-analysis  
-├── data/                # Archivos CSV originales  
-├── ab_test.ipynb        # Análisis completo en Jupyter Notebook  
-├── README.md            # Este archivo  
+├── 📁 data                       # Archivos CSV originales
+│   ├── hypotheses_us.csv         # Contiene descripciones de hipótesis y sus puntuaciones
+│   ├── orders_us.csv             # Información de pedidos, ingresos, usuarios
+│   └── visits_us.csv             # Registra las visitas diarias al sitio web
+├── 📄 ab_test.ipynb              # Análisis en Jupyter Notebook
+└── 📄 README.md                  # Este archivo
 ```
 
 ## 👤 Autor
